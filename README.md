@@ -1,5 +1,8 @@
 # ElectroShop SQL 
 
+![image](https://github.com/datacanovas/ElectroShop-SQL-/assets/157279064/ea75f7ec-ac12-49e6-bb2b-9f9f60f9c636)
+
+
 # 🚩 Introdución
 
 "ElectroShop" es una cadena de tiendas que vende productos electrónicos en múltiples ubicaciones. Cada tienda tiene su propio inventario y costos de productos, pero las ventas y los clientes se gestionan de manera centralizada.
