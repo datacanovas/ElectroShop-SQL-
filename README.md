@@ -56,5 +56,6 @@ Si quieres ver el código puedes consultarlo aquí:
 
 Si quieres acceder a las queries 
 
+[https://github.com/datacanovas/ElectroShop-SQL-](https://github.com/datacanovas/ElectroShop-SQL-/blob/main/QUERIES.sql)
 
 
